@@ -1,0 +1,670 @@
+
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <!-- 必须的 meta 标签 -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <!-- Bootstrap 的 CSS 文件 -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/main.css?v=1">
+    <link rel="stylesheet" href="/font/iconfont.css">
+    <script src="/js/addons.js"></script>
+
+    <title>免费无弹窗小说在线阅读_笔趣阁</title>
+    <meta name="keywords" content="笔趣阁,无弹窗小说,免费小说">
+    <meta name="description" content="最新免费阅读小说、无弹窗小说、玄幻、仙侠、修真、科幻、言情、都市、穿越等网络小说尽在-笔趣阁">
+</head>
+<body>
+ 
+<header>
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-3 "><a href="https://www.cnhxfilm.com/" class="logo">笔趣阁</a></div>
+            <div class="col-9 col-md-6 search">
+                <form class="d-block text-right" action="/search.php" method="get">
+                    <div class="input-group input-g ">
+                        <input type="text" name="q" class="form-control" placeholder="书名、作者、拼音" aria-label="搜索的内容" aria-describedby="button-addon2">
+                        <div class="input-group-append">
+                            <button class="btn" type="submit" id="button-addon2">搜索</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<nav class="">
+    <div class="container">
+        <a href="/" class="act">首页</a><a href="/sort.html" class="d-sm-block d-md-none">分类</a><a href="/fenlei1/" class="d-none d-md-block">玄幻</a><a href="/fenlei2/" class="d-none d-md-block">武侠</a><a href="/fenlei3/" class="d-none d-md-block">都市</a><a href="/fenlei4/" class="d-none d-md-block">历史</a><a href="/fenlei6/" class="d-none d-md-block">网游</a><a href="/fenlei7/" class="d-none d-md-block">科幻</a><a href="/fenlei8/" class="d-none d-md-block">言情</a><a href="/fenlei10/" class="d-none d-md-block">其他</a><a href="/paihangbang/" >排行</a><a href="/quanben/" >完本</a>
+    </div>
+</nav>
+<section>
+    <div class="container">
+        <div class="box">
+            <h1 class="title"><b>书友推荐阅读</b></h1>
+            <div class="row">
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/1117/" title="元尊">
+                            <img src="/imagesnew/1/1117/1117.jpg" onerror="this.src='/images/nocover.jpg';" alt="元尊" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/1117/" title="元尊">元尊</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：天蚕土豆</span>
+                        <span class="update">最新：<a href="/book/1117/1028821.html" title="完本感言">完本感言</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">天地为炉，万物为铜，阴阳为炭，造化为工。气运之争，蟒雀吞龙。究竟是蟒雀为尊，还是圣龙崛起，凌驾众生？这是气掌乾坤的世界，磅礴宏伟，一气可搬山，可倒海，可翻天，可掌阴阳乾坤。世间源气分九品，三品称玄，六品成天，九品号圣。吾有一口玄黄气，可吞天地日月星。</p>
+                </div>
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/1942/" title="伏天氏">
+                            <img src="/imagesnew/1/1942/1942.jpg" onerror="this.src='/images/nocover.jpg';" alt="伏天氏" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/1942/" title="伏天氏">伏天氏</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：净无痕</span>
+                        <span class="update">最新：<a href="/book/1942/3146303.html" title="番外（4）">番外（4）</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">东方神州，有人皇立道统，有圣贤宗门传道，有诸侯雄踞一方王国，诸强林立，神州动乱千万载，值此之时，一代天骄叶青帝及东凰大帝横空出世，东方神州一统！然，叶青帝忽然暴毙，世间雕像尽皆被毁，于世间除名，沦为禁忌；从此神州唯东凰大帝独尊！十五年后，东海青州城，一名为叶伏天的少年，开启了他的传奇之路…</p>
+                </div>
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/2319/" title="万古神帝">
+                            <img src="/imagesnew/2/2319/2319.jpg" onerror="this.src='/images/nocover.jpg';" alt="万古神帝" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/2319/" title="万古神帝">万古神帝</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：飞天鱼</span>
+                        <span class="update">最新：<a href="/book/2319/3078391.html" title="第3580章 诅咒所伤">第3580章 诅咒所伤</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">八百年前，明帝之子张若尘，被他的未婚妻池瑶公主杀死，一代天骄，就此陨落。八百年后，张若尘重新活了过来，却发现曾经杀死他的未婚妻，已经统一昆仑界，开辟出第一中央帝国，号称“池瑶女皇”。池瑶女皇——统御天下，威临八方；青春永驻，不死不灭。张若尘站在诸皇祠堂外，望着池瑶女皇的神像，心中燃烧起熊熊的仇恨烈焰，“待我重修十三年，敢叫女皇下黄泉”。…………</p>
+                </div>
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/3087/" title="剑来">
+                            <img src="/imagesnew/3/3087/3087.jpg" onerror="this.src='/images/nocover.jpg';" alt="剑来" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/3087/" title="剑来">剑来</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：烽火戏诸侯</span>
+                        <span class="update">最新：<a href="/book/3087/3078247.html" title="第九百八十五章   关门弟子">第九百八十五章   关门弟子</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">大千世界，无奇不有。我陈平安，唯有一剑，可搬山，倒海，降妖，镇魔，敕神，摘星，断江，摧城，开天！</p>
+                </div>
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/3408/" title="逆天邪神">
+                            <img src="/imagesnew/3/3408/3408.jpg" onerror="this.src='/images/nocover.jpg';" alt="逆天邪神" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/3408/" title="逆天邪神">逆天邪神</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：火星引力</span>
+                        <span class="update">最新：<a href="/book/3408/3045052.html" title="第1936章 灾厄奏鸣">第1936章 灾厄奏鸣</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">天毒之珠，承邪神之血，修逆天之力，一代邪神，君临天下！</p>
+                </div>
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/8019/" title="大梦主">
+                            <img src="/imagesnew/8/8019/8019.jpg" onerror="this.src='/images/nocover.jpg';" alt="大梦主" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/8019/" title="大梦主">大梦主</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：忘语</span>
+                        <span class="update">最新：<a href="/book/8019/1383195.html" title="第一千六百九十八章 狐祖之力">第一千六百九十八章 狐祖之力</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">一个从小体弱多病的富商之子，在寻求续命之法时，意外走上了修仙登天之路！大唐盛世，天下安泰，风调雨顺，百姓安居。千年后世，魔物吞天，妖鬼横行，遍野哀鸣。西游再现，大圣斗天，天蓬下凡，卷帘重生。莫名的穿梭与轮回，虚实掩映，真幻交织！是预言中的梦境？还是尚未发生的现实？他能否打破命中注定的魔障，消弭还未发生的三界大劫，挽救苍生于水火？</p>
+                </div>
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/19360/" title="万相之王">
+                            <img src="/imagesnew/19/19360/19360.jpg" onerror="this.src='/images/nocover.jpg';" alt="万相之王" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/19360/" title="万相之王">万相之王</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：天蚕土豆</span>
+                        <span class="update">最新：<a href="/book/19360/968647.html" title="第四百章  七星天珠">第四百章  七星天珠</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">天地间，有万相。而我李洛，终将成为这万相之王。继《斗破苍穹》《武动乾坤》《大主宰》《元尊》之后，天蚕土豆又一部玄幻力作。</p>
+                </div>
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/20367/" title="深空彼岸">
+                            <img src="/imagesnew/20/20367/20367.jpg" onerror="this.src='/images/nocover.jpg';" alt="深空彼岸" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/20367/" title="深空彼岸">深空彼岸</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：辰东</span>
+                        <span class="update">最新：<a href="/book/20367/559048.html" title="新篇 第2章 了无痕迹">新篇 第2章 了无痕迹</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">浩瀚的宇宙中，一片星系的生灭，也不过是刹那的斑驳流光。仰望星空，总有种结局已注定的伤感，千百年后你我在哪里？家国，文明火光，地球，都不过是深空中的一粒尘埃。星空一瞬，人间千年。虫鸣一世不过秋，你我一样在争渡。深空尽头到底有什么？——————书友群见书友圈置顶帖。</p>
+                </div>
+                
+                <div class="col-4 recommend">
+                    <div class="pic">
+                        <a class="img" href="/book/21389/" title="斗罗大陆V重生唐三">
+                            <img src="/imagesnew/21/21389/21389.jpg" onerror="this.src='/images/nocover.jpg';" alt="斗罗大陆V重生唐三" >
+                        </a>
+                    </div>
+                    <h3><a href="/book/21389/" title="斗罗大陆V重生唐三">斗罗大陆V重生唐三</a></h3>
+                    <p class="info d-none d-md-block">
+                        <span>作者：唐家三少</span>
+                        <span class="update">最新：<a href="/book/21389/559178.html" title="第五百五十六章 第一次过夜">第五百五十六章 第一次过夜</a></span>
+                    </p>
+                    <p class="intro d-none d-md-block">一代神王唐三，带着一点神识在宇宙中遨游，寻找妻子转世重生的世界。在神识的牵引下，他来到了一个叫做妖精大陆的地方，而他却发现，这是一个人类为刍狗的世界……</p>
+                </div>
+                
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="box hot">
+            <h1 class="title"><b>热门小说推荐</b></h1>
+            <div class="row">
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/19737/">
+                            <img src="/imagesnew/19/19737/19737.jpg" onerror="this.src='/images/nocover.jpg';" alt="夜的命名术" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-02 16:28:16</span><a href="/book/19737/">夜的命名术</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E8%82%98%E5%AD%90&amp;p=1" target="_blank">会说话的肘子</a></span></dd>
+                        <dd class="book_des">蓝与紫的霓虹中，浓密的钢铁苍穹下，数据洪流的前端，是科技革命之后的世界，也是现实与虚幻的分界。钢铁与身体，过去与未来。这里，表世界与里世界并存，面前的一切，像是时间之墙近在眼前。黑暗逐渐笼罩。可你要明白啊我的朋友，我们不能用温柔去应对黑暗，要用火。</dd>
+                        <dd class="book_other">最新章节：<a href="/book/19737/968652.html" >591、一件不后悔的事（求月票）</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/24591/">
+                            <img src="/imagesnew/24/24591/24591.jpg" onerror="this.src='/images/nocover.jpg';" alt="星门" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-02 21:35:55</span><a href="/book/24591/">星门</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E8%80%81%E9%B9%B0%E5%90%83%E5%B0%8F%E9%B8%A1&amp;p=1" target="_blank">老鹰吃小鸡</a></span></dd>
+                        <dd class="book_des">传说，在那古老的星空深处，伫立着一道血与火侵染的红色之门。传奇与神话，黑暗与光明，无尽传说皆在这古老的门户中流淌。俯瞰星门，热血照耀天地，黑暗终将离去！</dd>
+                        <dd class="book_other">最新章节：<a href="/book/24591/337378.html" >第437章 斩尽杀绝！（求月票订阅）</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/24865/">
+                            <img src="/imagesnew/24/24865/24865.jpg" onerror="this.src='/images/nocover.jpg';" alt="这游戏也太真实了" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-02 14:07:43</span><a href="/book/24865/">这游戏也太真实了</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E6%99%A8%E6%98%9FLL&amp;p=1" target="_blank">晨星LL</a></span></dd>
+                        <dd class="book_des">这游戏也太真实了叭！搬砖、跑腿、捡垃圾、送快递……公司最多能让你体会到996的艰辛，在这里你能体会到超级加倍的007。好了，不废话了，伟大的管理者大人喊我去搬砖了。那位大人说了，只要我们努力献上自己的肝，下个月他又能换一套全新的动力甲，到时候带我们开全新的地图，去广阔的废土捡更多的垃圾！……穿越到废土世界的楚光发现，自己解锁了避难所系统，能够从平行世界召唤名为“玩家”的生物。从那天开始，整个废土都不正经了。</dd>
+                        <dd class="book_other">最新章节：<a href="/book/24865/337309.html" >第307章 向老子的坐标开炮！</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/32067/">
+                            <img src="/imagesnew/32/32067/32067.jpg" onerror="this.src='/images/nocover.jpg';" alt="明克街13号" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-03 07:03:23</span><a href="/book/32067/">明克街13号</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E7%BA%AF%E6%B4%81%E6%BB%B4%E5%B0%8F%E9%BE%99&amp;p=1" target="_blank">纯洁滴小龙</a></span></dd>
+                        <dd class="book_des">我喜欢坐在夜晚空无一人的大街上，听着“他们”的窃窃私语，享受着“他们”的喧嚣。</dd>
+                        <dd class="book_other">最新章节：<a href="/book/32067/279098.html" >第两百零二章 火爆的谈判</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/23690/">
+                            <img src="/imagesnew/23/23690/23690.jpg" onerror="this.src='/images/nocover.jpg';" alt="不科学御兽" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-02 22:37:55</span><a href="/book/23690/">不科学御兽</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E8%BD%BB%E6%B3%89%E6%B5%81%E5%93%8D&amp;p=1" target="_blank">轻泉流响</a></span></dd>
+                        <dd class="book_des">这是一个以御兽为主流的异世界。动物，植物，元素，死灵，机械……九尾炎狐，生命古树，雷云精灵，骷髅君主，机械舰娘乃至孕育出灵的古董刀剑皆可作为宠兽，而契约、培养，御使它们的人类，则被统称为御兽师！神话学者兼考古学家时宇穿越而来，为了探寻空白的历史与失落的神话，他选择踏上了一条极为不科学的御兽之路…</dd>
+                        <dd class="book_other">最新章节：<a href="/book/23690/663715.html" >第332章：体力不支的时宇</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/15669/">
+                            <img src="/imagesnew/15/15669/15669.jpg" onerror="this.src='/images/nocover.jpg';" alt="我的治愈系游戏" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-02 22:52:37</span><a href="/book/15669/">我的治愈系游戏</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E6%88%91%E4%BC%9A%E4%BF%AE%E7%A9%BA%E8%B0%83&amp;p=1" target="_blank">我会修空调</a></span></dd>
+                        <dd class="book_des">警察同志，如果我说这是一款休闲治愈系游戏，你们信吗？</dd>
+                        <dd class="book_other">最新章节：<a href="/book/15669/1188016.html" >第608章 不会撒谎的电梯</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/33466/">
+                            <img src="/imagesnew/33/33466/33466.jpg" onerror="this.src='/images/nocover.jpg';" alt="宇宙职业选手" ></a></dt>
+                        <dd><h3><span class="uptime">2022-01-31 12:02:56</span><a href="/book/33466/">宇宙职业选手</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E6%88%91%E5%90%83%E8%A5%BF%E7%BA%A2%E6%9F%BF&amp;p=1" target="_blank">我吃西红柿</a></span></dd>
+                        <dd class="book_des">2036年，人类第一次登上了荧火星。2052年，第一届世界武道大赛举行，这也是全球最高格斗赛事，全球为之狂热。世界级顶尖选手“枪魔”许景明，于二十六岁那年，带着征战赛事留下的一身伤病，选择了退役……一个风起云涌的新时代，开始了！</dd>
+                        <dd class="book_other">最新章节：<a href="/book/33466/277426.html" >第二篇 第40章 总积分排名（虎年大吉！）</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/20653/">
+                            <img src="/imagesnew/20/20653/20653.jpg" onerror="this.src='/images/nocover.jpg';" alt="女主从书里跑出来了怎么办" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-02 22:00:43</span><a href="/book/20653/">女主从书里跑出来了怎么办</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E9%95%AD%E5%B0%84%E7%93%B6&amp;p=1" target="_blank">镭射瓶</a></span></dd>
+                        <dd class="book_des">楚戈是个后宫文写手。当他正在写天下最强者之一的女宗主芳心萌动的时候……一个女人出现在他的房间里，持剑架在他的脖子上：“你敢写我爱上那个男人，我就杀了你。”</dd>
+                        <dd class="book_other">最新章节：<a href="/book/20653/416495.html" >第一百八十二章 我们的探索</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/20367/">
+                            <img src="/imagesnew/20/20367/20367.jpg" onerror="this.src='/images/nocover.jpg';" alt="深空彼岸" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-02 20:41:04</span><a href="/book/20367/">深空彼岸</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E8%BE%B0%E4%B8%9C&amp;p=1" target="_blank">辰东</a></span></dd>
+                        <dd class="book_des">浩瀚的宇宙中，一片星系的生灭，也不过是刹那的斑驳流光。仰望星空，总有种结局已注定的伤感，千百年后你我在哪里？家国，文明火光，地球，都不过是深空中的一粒尘埃。星空一瞬，人间千年。虫鸣一世不过秋，你我一样在争渡。深空尽头到底有什么？——————书友群见书友圈置顶帖。</dd>
+                        <dd class="book_other">最新章节：<a href="/book/20367/559048.html" >新篇 第2章 了无痕迹</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/2512/">
+                            <img src="/imagesnew/2/2512/2512.jpg" onerror="this.src='/images/nocover.jpg';" alt="黜龙" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-03 00:01:41</span><a href="/book/2512/">黜龙</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E6%A6%B4%E5%BC%B9%E6%80%95%E6%B0%B4&amp;p=1" target="_blank">榴弹怕水</a></span></dd>
+                        <dd class="book_des">此方天地有龙。龙形百态，不一而足，或游于江海，或翔于高山，或藏于九幽，或腾于云间。一旦奋起，便可吞风降雪，引江划河，落雷喷火，分山避海。此处人间也有龙。人中之龙，胸怀大志，腹有良谋，有包藏宇宙之机，吞吐天地之志。一时机发，便可翻云覆雨，决势分野，定鼎问道，证位成龙。作为一个迷路的穿越者，张行一开始也想成龙，但后来，他发现这个行当卷的太厉害了，就决定改行，去黜落群龙。所谓行尽天下路，使天地处处通，黜遍天下龙，使世间人人可为龙。这是一个老套的穿越故事。</dd>
+                        <dd class="book_other">最新章节：<a href="/book/2512/3078336.html" >第一百零三章 金锥行（14）</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/21372/">
+                            <img src="/imagesnew/21/21372/21372.jpg" onerror="this.src='/images/nocover.jpg';" alt="术师手册" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-03 11:32:26</span><a href="/book/21372/">术师手册</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E5%90%AC%E6%97%A5&amp;p=1" target="_blank">听日</a></span></dd>
+                        <dd class="book_des">1668年，我所在的城市被评为全国治安最好的地区。我对此做出了不可磨灭的贡献。因为我落网了。</dd>
+                        <dd class="book_other">最新章节：<a href="/book/21372/559222.html" >第535章 请聆听我的命令</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <dl>
+                        <dt><a href="/book/9074/">
+                            <img src="/imagesnew/9/9074/9074.jpg" onerror="this.src='/images/nocover.jpg';" alt="全职艺术家" ></a></dt>
+                        <dd><h3><span class="uptime">2022-02-02 23:23:41</span><a href="/book/9074/">全职艺术家</a></h3></dd>
+                        <dd class="book_other">作者：<span><a href="/search.php?q=%E6%88%91%E6%9C%80%E7%99%BD&amp;p=1" target="_blank">我最白</a></span></dd>
+                        <dd class="book_des">“音乐、影视、绘画、书法、雕塑、文学……”“你都懂？”“略知一二。”“都会一点的意思？”“嗯，都会亿点的意思。”怀揣系统，靠艺术征服世界，成为各界人士顶礼膜拜的无冕之王。</dd>
+                        <dd class="book_other">最新章节：<a href="/book/9074/1383489.html" >第一千二百四十二章 虚假的音乐比赛，真实的舞蹈比赛</a></dd>
+                        <dd class="book_other"></dd>
+                    </dl>
+                </div>
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="tabpanel">
+    <div class="container">
+        <div class="box new">
+            <h2 class="title"><b>最新入库</b><span><a href="/top/lastpost/">更多&gt;&gt;</a></span></h2>
+            <div class="row tab-head">
+                <div class="col-2 col-md-1  kind">类别</div>
+                <div class="col-5 col-md-3  bookname">书名</div>
+                <div class="col-5 col-md-4  chap ">章节</div>
+                <div class="col-md-2 author d-none d-sm-block">作者</div>
+                <div class="col-md-2 time d-none d-sm-block">更新时间</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19423/">一代医后</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19423/980498.html">第三百二十四章 大结局</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E9%87%91%E9%92%B1%E7%8C%AA&amp;p=1" target="_blank">金钱猪</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:09:41</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei1/">[玄幻]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19422/">丹神武帝</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19422/980215.html">第1057章 心碎无痕，转瞬白头！（大结局）</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E8%A2%8F%E5%A2%A8&amp;p=1" target="_blank">袏墨</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:09:35</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei4/">[历史]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19421/">逆天狂妃之神君别惹我</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19421/979222.html">第488章   尘埃落定</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E6%B2%AB%E5%8D%83%E5%B2%91&amp;p=1" target="_blank">沫千岑</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:09:43</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei7/">[科幻]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19415/">末世：我有一座战舰</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19415/978823.html">第一百九十章 救世人于苦海，陷自身于危难</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E6%B8%85%E6%B5%8A%E4%BA%BA%E9%97%B4&amp;p=1" target="_blank">清浊人间</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:09:30</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei1/">[玄幻]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19409/">我都证道大帝了，你让我回地球？</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19409/413751.html">第五十五章 像你这样的化神期，我身后有一千个！</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E6%9D%8E%E9%95%BF%E7%94%9F%E5%95%8A&amp;p=1" target="_blank">李长生啊</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:09:17</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei2/">[武侠]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19406/">苟在诡异世界造傀儡</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19406/413617.html">第六十四章 吞噬阴鬼</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E4%B8%80%E6%9D%A1%E5%8F%89%E7%83%A7&amp;p=1" target="_blank">一条叉烧</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:09:21</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19396/">你的胡子我的围巾</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19396/978631.html">番外二</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E6%98%A0%E6%BC%BE&amp;p=1" target="_blank">映漾</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 13:09:47</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19395/">傅少的亿万宠妻</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19395/978574.html">第1169章  完美大结局</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%8D%97%E9%94%A6%E9%94%A6&amp;p=1" target="_blank">南锦锦</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:09:03</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei4/">[历史]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19386/">我在原始社会的日子</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19386/977450.html">完本感言</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%BF%AB%E4%B9%90%E5%B0%8F%E5%8C%BB&amp;p=1" target="_blank">快乐小医</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:08:51</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei7/">[科幻]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/11136/">末日开局获得系统</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/11136/910055.html">第13章</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E4%B8%80%E6%9D%A1%E5%93%A5%E6%96%AF%E6%8B%89&amp;p=1" target="_blank">一条哥斯拉</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 13:09:18</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei10/">[其他]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19382/">龙族：秒不掉龙王的我只能作弊了</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19382/404997.html">第四十五章：我们的目标是屠龙</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E8%80%81%E5%83%A7%E5%B7%B2%E6%AD%BB%E6%88%90%E6%96%B0%E5%A1%94&amp;p=1" target="_blank">老僧已死成新塔</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 09:10:03</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei7/">[科幻]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19368/">靠谱的世界拯救系统</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19368/509767.html">第16章 十七，我在一边</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E4%BA%91%E4%B8%8E%E7%8C%AB&amp;p=1" target="_blank">云与猫</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:09:27</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19357/">穿成龙套后我被男主的主子看上了</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19357/976970.html">番外雪凝的一生</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%B1%B1%E9%AC%BCE&amp;p=1" target="_blank">山鬼E</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 09:09:45</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19356/">女主她是个病娇反派</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19356/976886.html">第二百七十二章（大结局）</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E7%A7%83%E5%A4%B4%E6%80%AA%E8%A6%81%E6%97%A9%E7%9D%A1&amp;p=1" target="_blank">秃头怪要早睡</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 09:09:41</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei6/">[网游]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19355/">群星文明：我加载了MOD</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19355/393143.html">第33章 石中低语</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E7%99%BD%E7%8B%90%E4%B8%8D%E6%98%AF%E7%8C%AB&amp;p=1" target="_blank">白狐不是猫</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:08:45</div>
+            </div>
+            
+            
+
+        </div>
+    </div>
+</section>
+
+<section class="tabpanel">
+    <div class="container">
+        <div class="box new">
+            <h2 class="title"><b>最新更新</b><span><a href="/top/lastupdate/">更多&gt;&gt;</a></span></h2>
+            <div class="row tab-head">
+                <div class="col-2 col-md-1  kind">类别</div>
+                <div class="col-2 col-md-3  bookname">书名</div>
+                <div class="col-5 col-md-4  chap ">章节</div>
+                <div class="col-md-2 author d-none d-sm-block">作者</div>
+                <div class="col-md-2 time d-none d-sm-block">更新时间</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei8/">[言情]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/28686/">反派大佬带着空间去下乡</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/28686/350741.html">第608章 上眼药</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%B4%96%E4%B8%8A%E7%9A%84%E5%A4%AA%E9%98%B3%E8%8A%B1&amp;p=1" target="_blank">崖上的太阳花</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei2/">[武侠]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/28175/">侯府真千金是戏精</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/28175/350820.html">第1091章 别自作聪明</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E6%B0%B4%E6%B8%85%E7%AB%B9&amp;p=1" target="_blank">水清竹</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei4/">[历史]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/27166/">仙王奶爸</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/27166/300896.html">第三百七十二章 登仙台</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%8D%95%E7%8E%8B%E5%BC%A0&amp;p=1" target="_blank">单王张</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei4/">[历史]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/18144/">家父汉高祖</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/18144/51218.html">第023章 生错了时代</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%8E%86%E5%8F%B2%E7%B3%BB%E4%B9%8B%E7%8B%BC&amp;p=1" target="_blank">历史系之狼</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/13131/">妙手小医尊</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/13131/1278053.html">第624章  别人还怎么玩</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%A4%A7%E8%82%9A%E9%B1%BC&amp;p=1" target="_blank">大肚鱼</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei4/">[历史]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/9507/">我在影视剧里抗敌爆装</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/9507/1384190.html">第九百二十六章 找到敌军的缺点师团长佐久间中将的激动</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E7%9B%97%E4%BE%A0%E5%86%AC%E9%9B%AA&amp;p=1" target="_blank">盗侠冬雪</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/6636/">乡野小神医</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/6636/1985839.html">第791章 拍卖行的危机</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%BA%A7%E5%B1%B1%E9%92%93%E9%BE%99&amp;p=1" target="_blank">座山钓龙</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei8/">[言情]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/6005/">团宠假千金爆红娱乐圈</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/6005/1985868.html">第755章 华若灵假千金身份被知晓</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E6%AD%A4%E6%9C%A8%E9%9D%9E&amp;p=1" target="_blank">此木非</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei4/">[历史]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/4122/">重生之战神吕布</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/4122/2476908.html">第6208章 三面城墙同时告急</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E6%B5%81%E6%B5%AA%E7%9A%84%E7%8C%B4&amp;p=1" target="_blank">流浪的猴</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/2867/">超级保安在都市</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/2867/3078496.html">第4122章 无敌有敌</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%8C%97%E5%86%A5%E5%B0%8F%E5%A6%96&amp;p=1" target="_blank">北冥小妖</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/962/">都市无敌神医</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/962/3150327.html">第两千一百八十二章 太恐怖了！</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E5%94%90%E7%BA%A2%E6%A2%AA&amp;p=1" target="_blank">唐红梪</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei4/">[历史]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/741/">三国：开局带着曹操跑路</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/741/3150354.html">第100章 战争告一断落</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E4%BA%94%E5%88%86%E9%9F%B3%E7%AC%A62&amp;p=1" target="_blank">五分音符2</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei1/">[玄幻]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/333/">太古狂魔</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/333/3149893.html">3615.第三千六百一十五章 仙无忧！！</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E6%B1%89%E9%9A%B6&amp;p=1" target="_blank">汉隶</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:26</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/19327/">天龙殿龙浩赵晴赵贝贝</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/19327/971920.html">第1141章 空间吞噬</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E7%96%AF%E7%8B%82%E5%B0%8F%E7%89%9B&amp;p=1" target="_blank">疯狂小牛</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:25</div>
+            </div>
+            
+            <div class="row tab-content">
+                <div class="col-2 col-md-1  kind"><a href="/fenlei3/">[都市]</a></div>
+                <div class="col-5 col-md-3  bookname"><a href="/book/18822/">天龙殿龙浩赵晴赵贝贝</a></div>
+                <div class="col-5 col-md-4 chap"><a href="/book/18822/971919.html">第1141章 空间吞噬</a></div>
+                <div class="col-md-2 author d-none d-sm-block"><a href="/search.php?q=%E7%96%AF%E7%8B%82%E5%B0%8F%E7%89%9B&amp;p=1" target="_blank">疯狂小牛</a></div>
+                <div class="col-md-2 time d-none d-sm-block">02-03 16:29:25</div>
+            </div>
+             
+        </div>
+    </div>
+</section>
+
+
+
+<section class="link">
+    <div class="container">
+        <div class="box">
+            <h3 class="title"><b>友情链接</b></h3>
+            <div class="firendlink p-3">
+                
+                <a href="https://m.farpop.com/0_4/"  target="_blank" >元尊</a>
+                
+                <a href="http://www.biquabc.com/"  target="_blank" >笔趣ABC</a>
+                
+                <a href="http://www.bookjia.com/"  target="_blank" >书家文学</a>
+                
+                <a href="https://www.aiqu.la/"  target="_blank" >爱去小说网</a>
+                
+                <a href="http://www.dvdspring.com/"  target="_blank" >笔趣阁</a>
+                
+                <a href="https://www.cnhxfilm.com/" target="_blank">笔趣阁</a>
+                
+                <a href="http://www.newbixia.com/"  target="_blank" >新笔下文学</a>
+                
+                <a href="http://www.eraybook.com/"  target="_blank" >笔趣阁顶点书吧</a>
+                
+                <a href="http://www.txtshuji.com/"  target="_blank" >TXT书籍</a>
+                
+                <a href="https://m.farpop.com"  target="_blank" >非主流中文网</a>
+                
+                <a href="https://m.farpop.com/3_3727/"  target="_blank" >沧元图</a>
+                
+                <a href="http://www.biquok.com/"  target="_blank" >笔趣Ok</a>
+                
+                <a href="https://www.biquge.dev"  target="_blank" >笔趣阁</a>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<div id="footer">
+<div class="container">
+<p>本站所有收录的内容均来自互联网，如有侵权我们将尽快删除。</p>
+<p><a href="/sitemap.xml">网站地图</p>
+<script>
+footer();
+</script>
+</div>
+</div>
+	
+
+<script src="/js/jquery-1.11.1.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/main.js"></script>
+
+
+</body>
+</html>
