@@ -1,0 +1,128 @@
+<!doctype html>
+<html>
+<head>
+    <title>笔趣阁网_无弹窗阅读小说网</title>
+    <meta name="keywords" content="笔趣阁,笔趣阁网,无弹窗小说阅读网" />
+    <meta name="description" content="笔趣阁提供免费的小说阅读和txt下载,更新速度快,人工更新错章缺章,阅读界面简洁清爽,欢迎广大书友收藏阅读。" />
+    <link rel="stylesheet" href="/dist/xiaoshuo.css" />
+</head>
+
+<body>
+    <div id="wrapper" class="clearfix">
+        <div class="ywtop">
+    <div class="ywtop_con">
+        <div class="ywtop_sethome">
+            <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.maw168.com');" href="#">将笔趣阁网设为首页</a>
+        </div>
+        <div class="ywtop_addfavorite">
+            <a href="javascript:window.external.addFavorite('https://www.maw168.com','笔趣阁_无弹窗阅读小说网')">设为首页笔趣阁网</a>&nbsp;&nbsp;<a href="https://m.maw168.com" title="手机阅读">手机阅读</a>
+        </div>
+        <div class="nri login-ok hide">
+            Hi,<a href="/user" target="_top" class="top-username"></a>
+            <a href="/bookcase" target="_top">我的书架</a> |
+            <a href="/user" target="_top">我的资料</a> |
+            <a href="/editpassword" target="_top">修改密码</a> |
+            <a href="/loginout" target="_self">退出登录</a>
+        </div>
+        <div class="nri login-fail hide">
+            <form name="mylogin" id="mylogin" method="post" action="/login">
+                <div class="cc">
+                    <div class="txt">账号：</div>
+                    <div class="inp"><input type="text" name="uname" id="uname"></div>
+                </div>
+                <div class="cc">
+                    <div class="txt">密码：</div>
+                    <div class="inp"><input type="password" name="pass" id="pass"></div>
+                </div>
+                <div class="frii">
+                    <input type="hidden" name="action" id="action" value="login">
+                    <input type="submit" title="登陆" class="int" onclick="return checkUserLogin()" value="">
+                </div>
+                <div class="ccc">
+                    <div class="txtt"></div>
+                    <div class="txtt"><a href="/register">用户注册</a></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+        <div class="header">
+    <div class="header_logo">
+        <a href="https://www.maw168.com">笔趣阁</a>
+    </div>
+    <div class="header_search">
+        
+        <form name="mysearch" target="_blank" method="get" action="/search">
+            <input name="keyword" id="bdcsMain" type="text" placeholder="输入少字也别输错字" class="search">
+            <button onclick="return checkSearch()" type="submit">搜 索</button>
+        </form>
+        
+    </div>
+</div>
+        <div class="nav">
+    <ul>
+        <li><a href="/">首页</a></li>
+        <li><a rel="nofollow" href="/bookcase">我的书架</a></li>
+        <li><a href="/class/1/">玄幻小说</a></li>
+        <li><a href="/class/2/">修真小说</a></li>
+        <li><a href="/class/3/">都市小说</a></li>
+        <li><a href="/class/4/">历史小说</a></li>
+        <li><a href="/class/5/">网游小说</a></li>
+        <li><a href="/class/6/">科幻小说</a></li>
+        <li><a href="/class/7/">女频小说</a></li>
+        <li><a href="/class/8/">其他小说</a></li>
+        <li><a href="/history">阅读轨迹</a></li>
+    </ul>
+</div>
+        <div id="main" class="clearfix">
+            <div class="error" style="width: 500px;margin: 200px auto;text-align: center;line-height: 20px;">
+            <img src="/images/face.png">
+            <p class="error-msg">404！！找不到页面</p>
+            <div style="padding: 10px;">
+                页面自动 <a id="href" href="javascript:history.back(-1);">跳转</a>
+                等待： <b id="wait">3</b>秒
+            </div>
+        </div>
+        </div>
+    </div>
+    <div id="footer" name="footer">
+    <div class="footer_cont">
+        <p>本站所有小说为转载作品，所有章节均由网友上传，转载至本站只是为了宣传本书让更多读者欣赏。</p>
+        <p>
+            如果侵犯了您的权利，请与<a href="#">
+                <font color="red">联系邮箱</font>
+            </a>，我们将在48小时之内进行处理。</p>
+        <p>Copyright © 2019 All Rights Reserved.</p>
+    </div>
+</div>
+</body>
+    <script src="/dist/jquery.min.js"></script>
+    <script src="/dist/md5.min.js"></script>
+    <script src="/dist/common.js"></script>
+    <script type="text/javascript">
+        (function(){
+            var wait = document.getElementById('wait'),
+                href = document.getElementById('href').href;
+            var interval = setInterval(function(){
+                var time = --wait.innerHTML;
+                if(time <= 0) {
+                    clearInterval(interval);
+                    if ( false ) {
+                        window.location.href="/login";
+                        return;
+                    }
+                    if ( false ) {
+                        window.location.href="/";
+                        return;
+                    }
+                    if ( history.length > 1 ) {
+                        history.back();
+                    }
+                    else {
+                        window.location.href="/";
+                    }
+                };
+            }, 1000);
+        })();
+    </script>
+</html>
